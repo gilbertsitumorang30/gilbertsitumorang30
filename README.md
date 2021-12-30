@@ -1,7 +1,5 @@
 ## **Hi there!, I'm [Gilbert](https://gilbertsitumorang30.github.io/)** 👋😁
 
----
-
 [![Linkedin][badgeslinkedin]][urllinkedin]
 [![Instagram][badgesinstagram]][urlinstagram]
 [![Whatsapp][badgeswhatsapp]][urlwhatsapp]
@@ -10,9 +8,9 @@
 
 ---
 
-> ### "I had to believe in myself, believe that I was the person they believed in."
+> "I had to believe in myself, believe that I was the person they believed in."
 >
-> ## - Naruto Uzumaki
+> #### - Naruto Uzumaki
 
 ---
 
@@ -20,9 +18,7 @@
 
 I am student and sadboy. I love programming as much as i love her.
 
----
-
-#### **Talking About Personal Stuffs :**
+### **Talking About Personal Stuffs :**
 
 - 🔭 I'm Looking for a job (web developer)
 - 🌱 I’m currently learning full stack javascript
@@ -31,7 +27,7 @@ I am student and sadboy. I love programming as much as i love her.
 
 ---
 
-## 🛠️ **Things i work with**
+## 🛠️ **Things I work with**
 
 <!--- Assets --->
 
