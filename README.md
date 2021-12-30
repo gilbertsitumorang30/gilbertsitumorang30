@@ -8,9 +8,7 @@
 
 ---
 
-> ### " I had to believe in myself, believe that I was the person they believed in. "
->
-> ## - **_Naruto Uzumaki_**
+> ### " I had to believe in myself, believe that I was the person they believed in. " - **_Naruto Uzumaki_** -
 
 ---
 
