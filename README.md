@@ -1,4 +1,4 @@
-## **Hi there!, I'm [Gilbert](https://gilbertsitumorang30.github.io/)** 👋😁
+## **Hi there! I'm [Gilbert Situmorang](https://gilbertsitumorang30.github.io/)** 👋😁
 
 [![Linkedin][badgeslinkedin]][urllinkedin]
 [![Instagram][badgesinstagram]][urlinstagram]
@@ -8,9 +8,9 @@
 
 ---
 
-> "I had to believe in myself, believe that I was the person they believed in."
+> ### " I had to believe in myself, believe that I was the person they believed in. "
 >
-> #### - Naruto Uzumaki
+> ## - **_Naruto Uzumaki_**
 
 ---
 
