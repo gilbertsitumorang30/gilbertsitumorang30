@@ -92,7 +92,7 @@ My research interests include:
 
 I'm open to discussions, research collaborations, software engineering projects, and knowledge sharing.
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gilbert-fernando-situmorang-aa800a210/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilbert-fernando-situmorang-aa800a210/)
 - 🌐 Website: [gilbert-dev.my.id](#)
 - 📧 Email: gilbertsitumorang30@gmail.com
 
