@@ -6,7 +6,7 @@ I'm a Computer Science Lecturer with a strong interest in software engineering, 
 
 I enjoy building practical software solutions, exploring modern technologies, conducting experimental research, and sharing knowledge through teaching.
 
-- 🎓 Master's Degree in Computer Science
+- 🎓 Master of Information Technology
 - 👨‍🏫 Lecturer in Informatics Engineering
 - 💻 Focused on Backend Development and Software Engineering
 - 🔬 Researching web framework performance and system optimization
